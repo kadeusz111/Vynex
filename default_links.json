@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "google",
+    "title": "Google",
+    "url": "https://google.com",
+    "priority": 100
+  },
+  {
+    "keyword": "youtube",
+    "title": "YouTube",
+    "url": "https://youtube.com",
+    "priority": 100
+  },
+  {
+    "keyword": "github",
+    "title": "GitHub",
+    "url": "https://github.com",
+    "priority": 100
+  },
+  {
+    "keyword": "reddit",
+    "title": "Reddit",
+    "url": "https://reddit.com",
+    "priority": 100
+  },
+    {
+    "keyword": "spotify",
+    "title": "Spotify",
+    "url": "https://spotify.com/",
+    "priority": 100
+  }
+]

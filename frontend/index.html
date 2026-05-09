@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Vynex</title>
+
+    <link rel="stylesheet"
+          href="style.css">
+</head>
+<body class="home-body">
+
+<div class="home-container">
+
+    <h1 class="logo">Vynex</h1>
+
+    <div class="search-box">
+
+        <input  type="text" id="homeSearchInput" placeholder="Search anything...">
+
+        <button id="homeSearchBtn">
+            go
+        </button>
+    </div>
+
+</div>
+
+<script>
+
+const input =
+    document.getElementById(
+        "homeSearchInput"
+    );
+
+const button =
+    document.getElementById(
+        "homeSearchBtn"
+    );
+
+function goSearch() {
+
+    const query =
+        input.value.trim();
+
+    if (!query) return;
+
+    window.location.href =
+        `search/?q=${encodeURIComponent(query)}`;
+}
+
+button.addEventListener(
+    "click",
+    goSearch
+);
+
+input.addEventListener(
+    "keydown",
+    (e) => {
+
+        if (e.key === "Enter") {
+            goSearch();
+        }
+    }
+);
+
+</script>
+
+</body>
+</html>
