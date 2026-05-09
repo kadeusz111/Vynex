@@ -84,7 +84,7 @@ Response
 ]
 ```
 
-⭐ Default links
+## ⭐ Default links
 Custom high-priority links are stored in:
 ```
 default_links.json
@@ -105,7 +105,7 @@ This project scrapes public web pages — some sources may block requests
 DuckDuckGo and other sources may change HTML structure
 YouTube scraping uses Invidious (recommended for stability)
 
-📌TODO
+## 📌TODO
 - get rid of duckduckgo
 - add more sites to scrap
 
