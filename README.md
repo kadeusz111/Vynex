@@ -50,7 +50,7 @@ cargo run
 ```
 Server will start on:
 ```bash
-frontend/index.html
+http://localhost:3000
 ```
 3. Open frontend
 Just open:
