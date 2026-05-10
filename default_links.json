@@ -23,10 +23,166 @@
     "url": "https://reddit.com",
     "priority": 100
   },
-    {
+  {
     "keyword": "spotify",
     "title": "Spotify",
-    "url": "https://spotify.com/",
+    "url": "https://spotify.com",
     "priority": 100
+  },
+  {
+    "keyword": "netflix",
+    "title": "Netflix",
+    "url": "https://netflix.com",
+    "priority": 100
+  },
+  {
+    "keyword": "disney",
+    "title": "Disney+",
+    "url": "https://disneyplus.com",
+    "priority": 100
+  },
+  {
+    "keyword": "disney+",
+    "title": "Disney+",
+    "url": "https://disneyplus.com",
+    "priority": 100
+  },
+  {
+    "keyword": "facebook",
+    "title": "Facebook",
+    "url": "https://facebook.com",
+    "priority": 100
+  },
+  {
+    "keyword": "fb",
+    "title": "Facebook",
+    "url": "https://facebook.com",
+    "priority": 90
+  },
+  {
+    "keyword": "instagram",
+    "title": "Instagram",
+    "url": "https://instagram.com",
+    "priority": 100
+  },
+  {
+    "keyword": "x",
+    "title": "X",
+    "url": "https://x.com",
+    "priority": 100
+  },
+  {
+    "keyword": "twitter",
+    "title": "X",
+    "url": "https://x.com",
+    "priority": 95
+  },
+  {
+    "keyword": "tiktok",
+    "title": "TikTok",
+    "url": "https://tiktok.com",
+    "priority": 100
+  },
+  {
+    "keyword": "twitch",
+    "title": "Twitch",
+    "url": "https://twitch.tv",
+    "priority": 100
+  },
+  {
+    "keyword": "prime video",
+    "title": "Prime Video",
+    "url": "https://primevideo.com",
+    "priority": 100
+  },
+  {
+    "keyword": "amazon",
+    "title": "Amazon",
+    "url": "https://amazon.com",
+    "priority": 100
+  },
+  {
+    "keyword": "allegro",
+    "title": "Allegro",
+    "url": "https://allegro.pl",
+    "priority": 100
+  },
+  {
+    "keyword": "linkedin",
+    "title": "LinkedIn",
+    "url": "https://linkedin.com",
+    "priority": 100
+  },
+  {
+    "keyword": "discord",
+    "title": "Discord",
+    "url": "https://discord.com",
+    "priority": 100
+  },
+  {
+    "keyword": "steam",
+    "title": "Steam",
+    "url": "https://store.steampowered.com",
+    "priority": 100
+  },
+  {
+    "keyword": "wikipedia",
+    "title": "Wikipedia",
+    "url": "https://wikipedia.org",
+    "priority": 95
+  },
+  {
+    "keyword": "gmail",
+    "title": "Gmail",
+    "url": "https://mail.google.com",
+    "priority": 95
+  },
+  {
+    "keyword": "drive",
+    "title": "Google Drive",
+    "url": "https://drive.google.com",
+    "priority": 90
+  },
+  {
+    "keyword": "maps",
+    "title": "Google Maps",
+    "url": "https://maps.google.com",
+    "priority": 90
+  },
+  {
+    "keyword": "whatsapp",
+    "title": "WhatsApp",
+    "url": "https://whatsapp.com",
+    "priority": 100
+  },
+  {
+    "keyword": "messenger",
+    "title": "Messenger",
+    "url": "https://messenger.com",
+    "priority": 95
+  },
+  {
+    "keyword": "telegram",
+    "title": "Telegram",
+    "url": "https://telegram.org",
+    "priority": 100
+  },
+  {
+    "keyword": "pinterest",
+    "title": "Pinterest",
+    "url": "https://pinterest.com",
+    "priority": 90
+  },
+  {
+    "keyword": "ebay",
+    "title": "eBay",
+    "url": "https://ebay.com",
+    "priority": 90
+  },
+  {
+    "keyword": "paypal",
+    "title": "PayPal",
+    "url": "https://paypal.com",
+    "priority": 90
   }
 ]
